@@ -1,0 +1,32 @@
+
+/* menu area css  */
+.header-area{
+    background-color: #e4d0b7;
+    width: 100%;
+}
+.icon h3{
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.menu-area{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+
+}
+nav ul li{
+    list-style: none;
+    padding: 10px 25px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #424242;
+    
+}
