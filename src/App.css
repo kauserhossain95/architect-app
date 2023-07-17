@@ -8,4 +8,22 @@ body{
 .container{
   width: 80%;
   margin: auto;
+  text-align: center;
+}
+p{
+  font-size: 12px;
+  color: #727272;
+  margin: 20px 0;
+}
+.btn-primary{
+  background-color: #ff900e;
+  color: #FFF;
+  text-align: center;  
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 4px;
+
 }
