@@ -1,0 +1,23 @@
+.feature-left, .feature-right{
+    width: 50%;
+}
+
+
+.feature-content{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+.feature-left{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+.feature-left img{
+    width: 100%;
+}
+.feature-right{
+    text-align: left;
+    margin: 5%;
+    
+}
